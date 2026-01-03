@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hadijannat
 - 👀 I’m interested in Digital transformation
-- 🌱 I’m currently learning Python and Machine Learning
-- 💞️ I’m looking to collaborate on Business Intelligence Projects
-- 📫 aeroshariati@gmail.com
+- 📫 h.jannatabadi@iat.rwth-aachen.de
 
 <!---
 hadijannat/hadijannat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

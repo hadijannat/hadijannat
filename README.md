@@ -22,7 +22,7 @@
 ```yaml
 name: Hadi Jannat
 role: PhD Researcher
-affiliation: Institute of Information Management in Mechanical Engineering (IAT), RWTH Aachen University
+affiliation: RWTH Aachen University
 focus:
   - Asset Administration Shell (AAS)
   - Digital Twins & Digital Product Passports
@@ -119,20 +119,36 @@ I build open-source tools and platforms that bring academic research into produc
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadijannat&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadijannat&layout=compact&theme=algolia&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadijannat&theme=algolia" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hadijannat&theme=default" height="180" alt="GitHub Stats" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hadijannat&theme=algolia" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hadijannat&theme=default" height="180" alt="Top Languages" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hadijannat&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hadijannat&theme=algolia" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hadijannat&theme=default" width="95%" alt="Profile Details" />
+  </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hadijannat&theme=algolia&hide_border=true" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hadijannat&theme=algolia&utcOffset=1" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hadijannat&theme=default&utcOffset=1" height="180" alt="Productive Time" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hadijannat&theme=algolia" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hadijannat&theme=default" height="180" alt="Most Commit Language" />
+  </picture>
 </div>
 
 <br/>

@@ -1,7 +1,7 @@
 <!-- Animated Typing Header -->
 <div align="center">
   <a href="https://github.com/hadijannat">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=140&lines=PhD+Researcher+%7C+RWTH+Aachen;AAS+%26+Digital+Twin+Expert;Industry+4.0+Researcher;AI+for+Smart+Manufacturing" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=3584E4&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=150&lines=PhD+Researcher+%7C+RWTH+Aachen;AAS+%26+Digital+Twin+Expert;Industry+4.0+Researcher;AI+for+Smart+Manufacturing" alt="Typing SVG" />
   </a>
 </div>
 

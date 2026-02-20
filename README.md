@@ -7,7 +7,7 @@
 
 <!-- Banner -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3584E4,100:1a1b27&height=200&section=header&text=Hadi%20Jannat&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Bridging%20Research%20%26%20Industry%20Through%20Digital%20Twins&descSize=16&descAlignY=55&descColor=cccccc&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3584E4,100:1a1b27&height=200&section=header&text=Hadi%20Jannat&fontSize=42&fontColor=ffffff&fontAlignY=35&desc=Bridging%20Research%20and%20Industry%20Through%20Digital%20Twins&descSize=16&descAlignY=55&descColor=cccccc&animation=fadeIn" width="100%" />
 </div>
 
 <!-- Profile Views -->

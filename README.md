@@ -20,7 +20,7 @@
 ## 🧑‍🔬 About Me
 
 ```yaml
-name: Hadi Jannat
+name: MHadi Jannat
 role: PhD Researcher
 affiliation: RWTH Aachen University
 focus:

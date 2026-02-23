@@ -32,7 +32,7 @@ open_source: 54+ repositories | Python, TypeScript, Rust, Go
 motto: "Bridging the gap between research and real-world digital transformation"
 ```
 
-I'm a **PhD researcher at RWTH Aachen**, working at the intersection of **digital twins**, **Industry 4.0**, and **AI**. My work focuses on the **Asset Administration Shell (AAS)** standard — creating interoperable digital representations of physical assets to enable smart manufacturing and circular economy workflows.
+I'm a **PhD researcher at RWTH Aachen**, working at the intersection of **digital twins**, **Industry 4.0**, and **AI**. My work focuses on the **Asset Administration Shell (AAS)** standard — creating interoperable digital representations of physical assets to enable smart manufacturing and circular-economy workflows.
 
 I build open-source tools and platforms that bring academic research into production-ready systems.
 

@@ -12,7 +12,7 @@
 
 <!-- Profile Views -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hadijannat&style=for-the-badge&color=3584E4&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Mhadijannat&style=for-the-badge&color=3584E4&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br/>

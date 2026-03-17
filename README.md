@@ -156,8 +156,8 @@ I build open-source tools and platforms that bring academic research into produc
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-h.jannatabadi@iat.rwth--aachen.de-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:h.jannatabadi@iat.rwth-aachen.de)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hadi_Jannat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hadi-jannat/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hadi_Jannat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahdjannat/)
 [![Medium](https://img.shields.io/badge/Medium-@aeroshariati-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@aeroshariati)
 [![Website](https://img.shields.io/badge/Website-dpp--platform.dev-3584E4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dpp-platform.dev/)
 

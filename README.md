@@ -22,7 +22,6 @@
 ```yaml
 name: MHadi Jannat
 role: PhD Researcher
-affiliation: RWTH Aachen University
 focus:
   - Asset Administration Shell (AAS)
   - Digital Twins & Digital Product Passports
